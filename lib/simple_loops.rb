@@ -6,8 +6,9 @@ puts message[counter]
 counter+=1
 	  end
 	end
-loop_message_five_times["Hello World","nHello World","nHello World","Hello World","Hello World".]
+hi=["Hello World","nHello World","nHello World","Hello World","Hello World".]
 
+loop_message_five_times(hi)
 
 
   
