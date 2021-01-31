@@ -1,8 +1,16 @@
 
-def loop_message_five_times
+def loop_message_five_times(message)
   
 
 
+def output_array_elements(array)
+	  counter = 0
+	 
+	  while array[counter] do
+	    puts array[counter]
+	    counter += 1
+	  end
+	end
 
 
 
