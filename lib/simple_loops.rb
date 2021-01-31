@@ -6,7 +6,7 @@ puts message[counter]
 counter+=1
 	  end
 	end
-loop_message_five_times([Hello World.\nHello World.\nHello World.\nHello World.\nHello World./])
+loop_message_five_times([Hello World,\nHello World,\nHello World.\nHello World.\nHello World./])
 
 
 
